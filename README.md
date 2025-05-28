@@ -1,4 +1,4 @@
-# Audibleconvert
+# Timelapse Creator
 
 This is a command meant to be used with [dk](https://github.com/dkurth/dk).
 
