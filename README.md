@@ -1,6 +1,6 @@
-# Timelapse Creator
+# timelapse
 
-This is a command meant to be used with [dk](https://github.com/dkurth/dk).
+This is a command meant to be used with [dk](https://github.com/dkurth/dk). It creates a timelapse video from a directory of jpg files.
 
 ## Usage
 
