@@ -38,7 +38,7 @@ os.chdir(execution_context)
 fps = 30  # default fps
 output_file = 'output.mp4'  # default output file
 add_timestamps = False
-clean_up_timestamped_dir = False
+clean_up_timestamped_dir = False # set this to True to delete the "timestamped" directory after the video is created
 
 i = 0
 while i < len(args):
